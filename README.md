@@ -3,10 +3,10 @@
 <h1 align="center">
   <b>Iqbal Arrafi</b>
 </h1>
-
+<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width ='55%'>
 <p>Hey! I'm Iqbal Arrafi, a student currently living in Bekasi, Indonesia. I'm focusing on flutter, 
  and learning laravel through small projects on the side.</p>
- <img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" width ='55%'>
+ 
 <br>
 
 <div align="center">
