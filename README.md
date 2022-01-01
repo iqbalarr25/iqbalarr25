@@ -41,7 +41,7 @@
 </a> &nbsp;&nbsp;
 <p>
 
-<br>
+<br><br>
 <h2 align="center">
 My Statistics
 </h2>
