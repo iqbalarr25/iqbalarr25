@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">
   <b>Iqbal Arrafi</b>
 </h1>
