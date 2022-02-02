@@ -54,8 +54,3 @@ My Statistics
 </p>
 
 
-<br>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iqbalarr25&theme=tokyonight&card_width=600)
-
-
